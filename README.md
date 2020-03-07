@@ -1,2 +1,4 @@
 # intensifyTemplate
-A nice new template with HTML and CSS
+A nice new template with HTML and CSS.<br>
+
+In this template, you can see my coding and clean code skills improvement.
